@@ -1,2 +1,2 @@
 # JaycobReitz.github.io
-Example GitHub.io portfolio website
+[Projects](projects.html)
