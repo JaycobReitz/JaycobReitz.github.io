@@ -1,2 +1,2 @@
 # JaycobReitz.github.io
-[Projects](projects.html)
+[Projects](projects.md)
