@@ -1,5 +1,7 @@
 
-# [About Me](aboutme.md)
+# Jaycob Reitz
+
+## [About Me](aboutme.md)
 
 ## [Projects](projects.md)
 
