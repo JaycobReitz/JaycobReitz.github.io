@@ -1,5 +1,3 @@
-# JaycobReitz.github.io
+# [About Me](aboutme.md)
 
-[Projects](projects.md)
-
-[About Me](aboutme.md)
+## [Projects](projects.md)

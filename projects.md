@@ -1,9 +1,9 @@
 # Projects
 
-Mandelbrot Set Generation
+## Mandelbrot Set Generation
 
 ![Mandelbrot Set](Mandelbrot.png)
 
-Functional Chess
+## Functional Chess
 
 ![Chess](Chess.png)
