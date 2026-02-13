@@ -1,3 +1,4 @@
+
 # Projects
 
 ## Mandelbrot Set Generation
