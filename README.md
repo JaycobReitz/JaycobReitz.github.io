@@ -1,7 +1,5 @@
 
-# Jaycob Reitz
-
-## [About Me](aboutme.md)
+# [About Me](aboutme.md)
 
 ## [Projects](projects.md)
 
