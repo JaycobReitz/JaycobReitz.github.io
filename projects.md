@@ -1,7 +1,7 @@
 
 # Projects
 
-## Mandelbrot Set Generation
+## Mandelbrot Set Generation (may take a second to load)
 
 ![Mandelbrot Set](Mandelbrot.png)
 
